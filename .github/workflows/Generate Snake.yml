@@ -31,3 +31,5 @@ jobs:
         with:
           commit_message: 'Generate Contribution Snake'
           branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.ABIN }}          
