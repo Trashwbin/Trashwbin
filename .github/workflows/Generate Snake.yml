@@ -31,4 +31,3 @@ jobs:
         with:
           commit_message: 'Generate Contribution Snake'
           branch: main
-          token: ${{ secrets.Abin }}
