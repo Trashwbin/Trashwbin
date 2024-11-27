@@ -19,15 +19,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trashwbin/Trashwbin/main/assets/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trashwbin/Trashwbin/main/assets/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Trashwbin/Trashwbin/main/assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/trashwbin/Trashwbin/main/assets/github-contribution-grid-snake.svg" />
 </picture>
 
 
 ### My GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Trashwbin&theme=tokyonight&show_icons=true" height="170px">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Trashwbin&layout=compact&theme=tokyonight" height="170px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trashwbin&theme=tokyonight&show_icons=true" height="170px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trashwbin&layout=compact&theme=tokyonight" height="170px">
 <div>
 
 
