@@ -26,7 +26,7 @@
 ### My GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trashwbin&theme=tokyonight&show_icons=true" height="170px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trashwbin&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=14400" height="170px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=trashwbin&layout=compact&theme=tokyonight" height="170px">
 <div>
 
