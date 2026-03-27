@@ -15,6 +15,10 @@
 
 [![Website](https://img.shields.io/badge/Trashwbin.top-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://trashwbin.top) [![Email](https://img.shields.io/badge/Trashwbin@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Trashwbin@gmail.com) [![Gitee](https://img.shields.io/badge/Trashwbin-C71D23?style=flat-square&logo=gitee&logoColor=b)](https://gitee.com/trashwbin)
 
+### Blog Platforms
+
+[![Blog](https://img.shields.io/badge/Abin's_Quill-111827?style=flat-square&logo=hugo&logoColor=white)](https://blog.trashwbin.top) [![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/Trashwbin?type=blog) [![Juejin](https://img.shields.io/badge/Juejin-1E80FF?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/2725022591102297/posts) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/trashwbin) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://abin.hashnode.dev)
+
 ### My GitHub Contributions
 
 <picture>
